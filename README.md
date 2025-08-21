@@ -4,6 +4,6 @@ This repository contains a curated collection of top-performing email subject li
 
 ## How to Use
 
-- Browse the `winner-subjects.md` file for inspiration.
+- Browse the [winner-subjects.md](winner-subjects.md) file for inspiration.
 - Filter by platform, audience, or campaign type.
 - Contribute new winners as you discover them!
