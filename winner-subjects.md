@@ -21,6 +21,9 @@ A curated collection of high-performing email subject lines from ConvertKit and 
 - 🎓 Unlock cash back & build credit with this student card! 🚀
 - 💸 Maximize your shopping with Amazon Rewards Visa!
 - 🍴 Get 3% cash back on dining & entertainment – Apply now!
+- 💳 Unlock 3x points on dining, travel, and more!
+- 🚗💳 Unlock 5x points and exclusive perks!
+- Unlock Your Dream Vacation with Chase Sapphire Preferred! ✈️
 
 **Performance Insights:**
 
@@ -103,4 +106,4 @@ When adding new subject lines, please include:
 
 ---
 
-_Last updated: August 21, 2025 | Total subject lines: 13 | Categories: 3_
+### Last updated: August 21, 2025 | Total subject lines: 13 | Categories: 3
