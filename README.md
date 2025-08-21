@@ -1,2 +1,9 @@
-# emailgenius-winner-broadcasts-subjects
-A curated collection of high-performing email subject lines from previous ConvertKit and ActiveCampaign broadcasts. This repository documents winning subjects along with their open and click rates, helping marketers and developers optimize future campaigns. All entries are organized in a Markdown file for easy reference and analysis.
+# EmailGenius Winner Broadcasts Subjects
+
+This repository contains a curated collection of top-performing email subject lines from ConvertKit and ActiveCampaign broadcasts. Each entry includes performance metrics and context to help inform future campaigns.
+
+## How to Use
+
+- Browse the `winner-subjects.md` file for inspiration.
+- Filter by platform, audience, or campaign type.
+- Contribute new winners as you discover them!
