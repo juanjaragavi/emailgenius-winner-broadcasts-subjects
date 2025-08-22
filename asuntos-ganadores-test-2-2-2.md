@@ -1,0 +1,1 @@
+* ## **Email Type:** Defines the core content strategy (`Clickbait`, `Product`, or `Bank Communication Spoof`).
