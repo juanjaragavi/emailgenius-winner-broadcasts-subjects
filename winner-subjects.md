@@ -1,17 +1,5 @@
 # Winner Broadcast Subjects
 
-A curated collection of high-performing email subject lines from ConvertKit and ActiveCampaign campaigns, organized by category and performance insights.
-
----
-
-## 📊 Latest High-Performers
-
-### Updated: August 21, 2025
-
-### 💳 Financial Services & Credit Cards
-
-**High-Converting Subject Lines:**
-
 - Unlock your financial future with Tomo Credit Card! 🚀
 - Unlock cash rewards like never before! 💰
 - Unlock 0% APR & Cash Back Today! 💰💳
@@ -32,7 +20,7 @@ A curated collection of high-performing email subject lines from ConvertKit and 
 - Dollar signs and percentage symbols create urgency
 - Student-focused messaging performs well in educational demographics
 
-### 🛍️ E-commerce & Rewards
+## 🛍️ E-commerce & Rewards
 
 **High-Converting Subject Lines:**
 
