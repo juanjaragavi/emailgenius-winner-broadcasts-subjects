@@ -1,0 +1,27 @@
+* Unlock cash rewards like never before! 💰  
+* Unlock delicious rewards with DoorDash! 🍔💳  
+* Unlock 0% APR & Cash Back Today! 💰💳  
+* 🎉 Kickstart your credit journey with Discover It Student Chrome!  
+* Double your cash back effortlessly! 💸  
+* Say goodbye to credit worries! Get approved instantly! 🌟  
+* 🎓 Unlock cash back & build credit with this student card! 🚀  
+* 💸 Maximize your shopping with Amazon Rewards Visa!  
+* Update on your FlexPay enrollment status  
+* Action Required: Your card is on security hold ⚠️  
+* LIVE UPDATE: Your driver is approaching 📍  
+* 🍴 Get 3% cash back on dining & entertainment – Apply now!  
+* 💳 Unlock 3x points on dining, travel, and more!  
+* 🚗💳 Unlock 5x points and exclusive perks!  
+* Unlock Your Dream Vacation with Chase Sapphire Preferred! ✈️  
+* Build your credit without the hassle! 💳  
+* 🛠️ Build your credit with ease—Here's how!  
+* 📚 College life made rewarding!  
+* 🤑 Boost your credit with no annual fee!  
+* 🎉 Unlock the luxury you deserve with The Platinum Card®  
+* ✈️ The secret to earning miles without breaking the bank  
+* 🎯 Your Path to 0% Interest Starts Here  
+* Your business deserves better 💼💸  
+* 🎉 Surprise\! The Perfect Card for You is Here  
+* 🛍️ Unlock 5% Cash Back and More\!  
+* Ready to travel and earn rewards? 🌍  
+* 🎉 Earn 4% cash back on dining & entertainment\!
